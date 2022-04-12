@@ -1,6 +1,7 @@
 # astrojectory
 <img src="https://gitlab.com/ece143_grp6/astrojectory/-/blob/main/gifs/nonhazardous_astro.gif" width="400" height="400" /> 
 
+detailed explanation: https://docs.google.com/presentation/d/1KSgx54YsLZIj2GuHr2T3ZTJRYeRZAF8S1hmeu9jLeEc/edit#slide=id.p2
 
 ## Modules Used for This Project
 
